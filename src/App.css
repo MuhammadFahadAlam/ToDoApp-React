@@ -1,0 +1,12 @@
+body{
+  background-color: #ebe6e6;
+  font-family: 'Comfortaa';
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
